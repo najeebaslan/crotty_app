@@ -14,14 +14,6 @@
     A comprehensive solution for managing recharge cards for service providers and customers
   </p>
 
-## About The Project
-
-The recharge cards app provides an innovative solution for purchasing recharge cards digitally without the need for physical cards, with additional features such as:
-✔ Track past purchases 
-✔ Exclusive offers 
-✔ Receive cards instantly on your mobile 
-✔ Avoid the hassle of losing cards
-
   <div>
     <a href="#">
       <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" height="60">
@@ -32,6 +24,12 @@ The recharge cards app provides an innovative solution for purchasing recharge c
   </div>
 </div>
 
+## About The Project
+The recharge cards app provides an innovative solution for purchasing recharge cards digitally without the need for physical cards, with additional features such as:
+✔ Track past purchases 
+✔ Exclusive offers 
+✔ Receive cards instantly on your mobile 
+✔ Avoid the hassle of losing cards
 ## 📱 App Screenshots
 
 <div align="center">

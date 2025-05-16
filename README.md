@@ -1,4 +1,4 @@
-# Recharge Cards App <img src="assets/logo.png" width="40" height="40">
+# Recharge Cards App <img src="https://firebasestorage.googleapis.com/v0/b/meamarmanager.appspot.com/o/network_client_app_logo%2Flogo_with_name.png?alt=media&token=2ebe157a-587d-4d52-9b17-701d0dee79be" width="40" height="40">
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 ![Flutter](https://img.shields.io/badge/flutter-3.19.5-blue)
@@ -6,7 +6,7 @@
 
 <!-- PROJECT LOGO -->
 <div align="center">
-  <img src="assets/logo.png" alt="Logo" width="200">
+  <img src="https://firebasestorage.googleapis.com/v0/b/meamarmanager.appspot.com/o/network_client_app_logo%2Flogo_with_name.png?alt=media&token=2ebe157a-587d-4d52-9b17-701d0dee79be" alt="Logo" width="200">
   
   <h1>Recharge Cards Management App</h1>
   
@@ -14,7 +14,7 @@
     A comprehensive solution for managing recharge cards for service providers and customers
   </p>
 
-  <div>
+  <!-- <div>
     <a href="#">
       <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" height="60">
     </a>
@@ -22,12 +22,14 @@
       <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" height="60">
     </a>
   </div>
-</div>
+</div> -->
 
 ## Overview
 Crotty is a modern, feature-rich mobile application designed to simplify and streamline network card management and financial operations. It provides users with a seamless experience for buying, selling, and tracking network cards, as well as handling money transfers and reports. The app is built with scalability, security, and user-friendliness in mind.
 ## 📱 App Screenshots
-
+  <td><img src="https://firebasestorage.googleapis.com/v0/b/weddinghallbooking-2ba28.appspot.com/o/protiflio_images%2Fcrotty_website-1.jpg?alt=media&token=b471e55a-46fe-4c9f-b541-9d37a7d909a4" alt="Image 2"></td>
+  <td><img src="https://firebasestorage.googleapis.com/v0/b/weddinghallbooking-2ba28.appspot.com/o/protiflio_images%2Fcrotty_website-2.jpg?alt=media&token=d8454c02-b375-4675-aea1-b6fb32a084ad" alt="Image 2"></td>
+  <td><img src="https://firebasestorage.googleapis.com/v0/b/weddinghallbooking-2ba28.appspot.com/o/protiflio_images%2Fcrotty_website-3.jpg?alt=media&token=312c4208-28a7-471c-96fd-1114cab16097" alt="Image 2"></td>
 <div align="center">
   <table>
     <tr>

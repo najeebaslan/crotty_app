@@ -13,7 +13,7 @@
   <p>
     A comprehensive solution for managing recharge cards for service providers and customers
   </p>
-
+  </div>
   <!-- <div>
     <a href="#">
       <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" height="60">

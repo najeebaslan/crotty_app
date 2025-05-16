@@ -30,22 +30,6 @@ Crotty is a modern, feature-rich mobile application designed to simplify and str
   <td><img src="https://firebasestorage.googleapis.com/v0/b/weddinghallbooking-2ba28.appspot.com/o/protiflio_images%2Fcrotty_website-1.jpg?alt=media&token=b471e55a-46fe-4c9f-b541-9d37a7d909a4" alt="Image 2"></td>
   <td><img src="https://firebasestorage.googleapis.com/v0/b/weddinghallbooking-2ba28.appspot.com/o/protiflio_images%2Fcrotty_website-2.jpg?alt=media&token=d8454c02-b375-4675-aea1-b6fb32a084ad" alt="Image 2"></td>
   <td><img src="https://firebasestorage.googleapis.com/v0/b/weddinghallbooking-2ba28.appspot.com/o/protiflio_images%2Fcrotty_website-3.jpg?alt=media&token=312c4208-28a7-471c-96fd-1114cab16097" alt="Image 2"></td>
-<div align="center">
-  <table>
-    <tr>
-      <td><img src="screenshots/login.jpg" width="200"></td>
-      <td><img src="screenshots/home.jpg" width="200"></td>
-      <td><img src="screenshots/cards.jpg" width="200"></td>
-      <td><img src="screenshots/map.jpg" width="200"></td>
-    </tr>
-    <tr>
-      <td><img src="screenshots/reports.jpg" width="200"></td>
-      <td><img src="screenshots/notifications.jpg" width="200"></td>
-      <td><img src="screenshots/profile.jpg" width="200"></td>
-      <td><img src="screenshots/dark_mode.jpg" width="200"></td>
-    </tr>
-  </table>
-</div>
 
 ## ✨ Key Features
 - 🔍 Discover nearby available networks
